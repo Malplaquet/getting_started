@@ -1,1 +1,1 @@
-# getting_started
+# get_started
